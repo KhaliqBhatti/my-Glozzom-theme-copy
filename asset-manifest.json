@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-Glozzom-theme-copy/static/css/main.20b6d58b.css",
+    "main.js": "/my-Glozzom-theme-copy/static/js/main.5ee7d97f.js",
+    "static/js/787.c946597c.chunk.js": "/my-Glozzom-theme-copy/static/js/787.c946597c.chunk.js",
+    "static/media/laptop.png": "/my-Glozzom-theme-copy/static/media/laptop.8e267095ee1385dbfc5d.png",
+    "static/media/lights.jpg": "/my-Glozzom-theme-copy/static/media/lights.4c8bd6c5eeddfbb1530e.jpg",
+    "static/media/image2.jpg": "/my-Glozzom-theme-copy/static/media/image2.2dfecae74c47b3d0ee59.jpg",
+    "static/media/image1.jpg": "/my-Glozzom-theme-copy/static/media/image1.417acb0b451581f619ec.jpg",
+    "static/media/media.jpg": "/my-Glozzom-theme-copy/static/media/media.b6d7aa5fb49f0deeaa3a.jpg",
+    "static/media/image3.jpg": "/my-Glozzom-theme-copy/static/media/image3.6519fe765ee89e5cbbc6.jpg",
+    "static/media/gear-solid.svg": "/my-Glozzom-theme-copy/static/media/gear-solid.0b8b0e87c72e112a07abd0ddfca6b5ba.svg",
+    "index.html": "/my-Glozzom-theme-copy/index.html",
+    "static/media/cart-plus-solid.svg": "/my-Glozzom-theme-copy/static/media/cart-plus-solid.1b6204687512a95c7f9187ce1020bc12.svg",
+    "static/media/cloud-solid.svg": "/my-Glozzom-theme-copy/static/media/cloud-solid.096a91187bfec729c7cd04a610f0bff9.svg",
+    "main.20b6d58b.css.map": "/my-Glozzom-theme-copy/static/css/main.20b6d58b.css.map",
+    "main.5ee7d97f.js.map": "/my-Glozzom-theme-copy/static/js/main.5ee7d97f.js.map",
+    "787.c946597c.chunk.js.map": "/my-Glozzom-theme-copy/static/js/787.c946597c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20b6d58b.css",
+    "static/js/main.5ee7d97f.js"
+  ]
+}
